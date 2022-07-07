@@ -1,1 +1,2 @@
-# Boostrap_Project_Week1_C / Practice_FrontEnd
+# Boostrap_Project_Week1_C
+Practice Page
